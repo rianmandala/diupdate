@@ -38,7 +38,7 @@ export default function RootLayout({
             content="Diupdate, community platform, discussions, thread creation, commenting, social login, user engagement, MongoDB, Next.js, Clerk, real-time updates, serverless APIs"
           />
           <meta name="robots" content="index, follow" />
-          <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+          <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
           <meta name="language" content="English" />
           <meta name="author" content="Rian Mandala" />
           <meta
